@@ -9,6 +9,6 @@ int main ()
 {
     int result;
     result = addition (1,4);
-    printf("resultat = %d", result);
+    printf("a+b = %d", result);
     return 0;
 }

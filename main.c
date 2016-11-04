@@ -9,6 +9,7 @@ int main ()
 {
     int result;
     result = addition (1,4);
-    printf("a+b = %d", result);
+    printf("resultat de l'addition est = %d", result);
+
     return 0;
 }
